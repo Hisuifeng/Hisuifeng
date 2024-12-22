@@ -1,5 +1,5 @@
 ## Hi!There is Suifeng's personal page👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7B6B1&width=400&lines=善待生活，热爱一切，经常开怀大笑。;你不必独自面对。+从现在起，让世界感受痛楚。)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7B6B1&width=400&lines=善待生活，热爱一切，经常开怀大笑。;你不必独自面对。;从现在起，让世界感受痛楚。)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7B6B1&width=500&lines=Live+well,love+lots,and+laugh+often.;You+don't+need+facing+alone.;ここより+世界に痛みを。)](https://git.io/typing-svg)<br>
 * 我是随风，爱好编程，头发特长。<br>I'm Suifeng.It's meaning that something bad will go away with wind🍃.<br>My favorate is coding and long hair.
 * 暴脾气😡，是埃及法老，是药剂师，还是抽象带师🥵。<br>Hot temper😡.Using F-words(start with F) offen.And making some arT tHinGS,such as uplaod abstract video(the abbreviation of "AV"🤣).
