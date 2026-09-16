@@ -4,7 +4,7 @@
 头号光厨在此！
 Hikari is my wife.🥰
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hisuifeng)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 
 
