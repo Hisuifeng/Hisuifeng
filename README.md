@@ -1,10 +1,8 @@
-## Hi! There is Suifeng's personal page👋
+## Welcome to Suifeng's personal page.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7B6B1&width=400&lines=善待生活，热爱一切，经常开怀大笑。;你不必独自面对。;从现在起，让世界感受痛楚。)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7B6B1&width=500&lines=Live+well,love+lots,and+laugh+often.;You+don't+need+facing+alone.;ここより+世界に痛みを。)](https://git.io/typing-svg)<br>
-头号光厨在此！
-Hikari is my wife.🥰
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+### Stats
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Hisuifeng)](https://github.com/stats-organization/github-stats-extended)
 
 
 
